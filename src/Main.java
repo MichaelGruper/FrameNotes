@@ -18,7 +18,7 @@ public class Main {
         panel.setBackground(new Color(200,255,190));
 
        //Step three: create components
-       JLabel label = new JLabel("Goodbye World");
+       JLabel label = new JLabel("Meh World");
        JButton button = new JButton("Push me!");
        JTextField textField = new JTextField(10);
        //adding textField text to the JComboBox
